@@ -13,6 +13,7 @@ namespace TestingGit
             Console.WriteLine("Oceans 10");
             Console.WriteLine("Oceans 11");
             Console.WriteLine("Undisputed");
+            Console.WriteLine("Copyright Adam Östberg, 2018");
         }
     }
 }
